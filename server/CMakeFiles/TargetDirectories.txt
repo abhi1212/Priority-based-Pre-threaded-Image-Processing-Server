@@ -1,0 +1,3 @@
+/home/sammeet/Downloads/rtos/Project/server/CMakeFiles/rebuild_cache.dir
+/home/sammeet/Downloads/rtos/Project/server/CMakeFiles/edit_cache.dir
+/home/sammeet/Downloads/rtos/Project/server/CMakeFiles/colortogray.dir
